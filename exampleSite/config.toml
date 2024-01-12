@@ -1,6 +1,6 @@
-baseURL               = "https://bioit.top/"
+baseURL               = "https://webselect.gglss.top/"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
+title                 = "网址集"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
