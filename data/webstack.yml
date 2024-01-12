@@ -6,15 +6,6 @@
       logo: Dingtalk_20240112135427.ico
       url: https://gglss.top
       description: 主页
-    - title: 博客
-      logo: 博客.ico
-      url: https://ikirito.me/
-      description: 站长的博客
-    - title: 关于我
-      logo: 关于我.ico
-      url: https://doks.xazz.top/blog/
-      qrcode: assets/images/my.png
-      description: 站长的个人介绍
     - title: 文档库
       logo: doks.ico
       url: https://doks.xazz.top
@@ -23,10 +14,6 @@
       logo: 探针.svg
       url: https://vps.xazz.top/
       description: 哪吒探针管理
-    - title: 开源
-      logo: github.ico
-      url: https://github.com/i-kirito/nav.github.io
-      description: 导航站GitHub开源
     - title: Chatgpt镜像
       logo: chatgpt.ico
       url: https://chat.xazz.top/
